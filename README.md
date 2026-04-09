@@ -3,8 +3,6 @@
 ## Overview
 This repository contains a detailed blog about unmined gold and Bitcoin, exploring scarcity, mining trends, and how platforms like [Unmineable](https://unmineable.wordpress.com/2026/04/09/how-much-gold-and-bitcoin-remain-unmined/) allow users to earn otherwise unmineable cryptocurrencies.
 
-The blog is written in **HTML** format (`index.html`) and structured using semantic HTML5 elements like `<main>` and `<section>` for better readability and SEO.
-
 ---
 
 ## Topics Covered
